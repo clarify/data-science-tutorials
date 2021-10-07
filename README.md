@@ -7,15 +7,15 @@
 ## Table of Contents
 
 1. [Introduction](#intro)
-2. [Pattern Recognition](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/pattern_recognition/pattern_recognition.ipynb)
-3. [Forecasting](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecast.ipynb)
-4. [Hosting]()
+2. [Pattern Recognition](#pattern)
+3. [Forecasting](#forecasting)
+4. [Hosting](#hosting)
 
 <a name="intro"></a>
 
 ## Introduction
 
-In the introduction notebook you will get familiarised with the basic of interfacing with Clarify.
+In the introduction notebook you will get familiarised with the basics of interfacing with Clarify using python.
 
 Topics covered:
 
@@ -27,8 +27,44 @@ Topics covered:
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Introduction.ipynb)
 
+
+<a name="pattern"></a>
+
 ## Pattern Recognition
+
+In the pattern recognition notebook ...
+
+Topics covered:
+
+- topic 1
+- topic 2
+
+[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/pattern_recognition/pattern_recognition.ipynb)
+
+
+<a name="forecasting"></a>
 
 ## Forecasting
 
+In the forecasting notebook ...
+
+Topics covered:
+
+- topic 1
+- topic 2
+
+[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecast.ipynb)
+
+
+<a name="hosting"></a>
+
 ## Hosting
+
+In the hosting notebook ...
+
+Topics covered:
+
+- topic 1
+- topic 2
+
+[Link to Colab Notebook]()
