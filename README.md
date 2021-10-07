@@ -4,6 +4,8 @@
 
 > _A space for data science tutorials using Clarify._
 
+![doodle](media/light-3.png)
+
 ## Table of Contents
 
 1. [Introduction](#intro)
@@ -27,7 +29,6 @@ Topics covered:
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Introduction.ipynb)
 
-
 <a name="pattern"></a>
 
 ## Pattern Recognition
@@ -41,7 +42,6 @@ Topics covered:
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/pattern_recognition/pattern_recognition.ipynb)
 
-
 <a name="forecasting"></a>
 
 ## Forecasting
@@ -54,7 +54,6 @@ Topics covered:
 - topic 2
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecast.ipynb)
-
 
 <a name="hosting"></a>
 
