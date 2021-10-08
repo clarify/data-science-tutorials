@@ -33,14 +33,17 @@ Topics covered:
 
 ## Pattern Recognition
 
-In the pattern recognition notebook ...
+In the pattern recognition notebook you will gain a deeper understanding how to bring Clarify and data-science together. We will show you how to apply a pattern recognition algorithm on your data and create items with your results. After that you will be able to share your knowledge and discoveries with other members from your organization.
 
 Topics covered:
 
-- topic 1
-- topic 2
+- Read Item data from Clarify
+- Apply a Pattern Recognition Algorithm
+- Create Patterns
+- Write signals to Clarify
+- Visualise and share your results in Clarify
 
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/pattern_recognition/pattern_recognition.ipynb)
+[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/Pattern%20Recognition.ipynb)
 
 <a name="forecasting"></a>
 
