@@ -41,4 +41,4 @@ Topics covered:
 - Write signals to Clarify
 - Visualise and share your results in Clarify
 
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/Pattern%20Recognition.ipynb)
+[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Pattern%20Recognition.ipynb)
