@@ -11,7 +11,6 @@
 1. [Introduction](#intro)
 2. [Pattern Recognition](#pattern)
 3. [Forecasting](#forecasting)
-4. [Hosting](#hosting)
 
 <a name="intro"></a>
 
@@ -57,16 +56,3 @@ Topics covered:
 - topic 2
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecast.ipynb)
-
-<a name="hosting"></a>
-
-## Hosting
-
-In the hosting notebook ...
-
-Topics covered:
-
-- topic 1
-- topic 2
-
-[Link to Colab Notebook]()
