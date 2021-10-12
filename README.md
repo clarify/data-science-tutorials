@@ -10,7 +10,6 @@
 
 1. [Introduction](#intro)
 2. [Pattern Recognition](#pattern)
-3. [Forecasting](#forecasting)
 
 <a name="intro"></a>
 
@@ -43,16 +42,3 @@ Topics covered:
 - Visualise and share your results in Clarify
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/pattern_recognition/tutorials/Pattern%20Recognition.ipynb)
-
-<a name="forecasting"></a>
-
-## Forecasting
-
-In the forecasting notebook ...
-
-Topics covered:
-
-- topic 1
-- topic 2
-
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecast.ipynb)
