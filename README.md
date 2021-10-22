@@ -10,6 +10,7 @@
 
 1. [Introduction](#intro)
 2. [Pattern Recognition](#pattern)
+3. [Google Cloud Hosting](#hosting)
 
 <a name="intro"></a>
 
@@ -42,3 +43,19 @@ Topics covered:
 - Visualise and share your results in Clarify
 
 [Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Pattern%20Recognition.ipynb)
+
+<a name="hosting"></a>
+
+## Google Cloud Hosting
+
+In the Google Cloud hosting notebook you will be introduced to a way for writing data to Clarify continuously using an external API of your choice.
+
+Topics covered:
+
+- Choose an API from where you will get your data
+- Integrating with Clarify
+- Create a docker image
+- Google Cloud Hosting
+- See results in Clarify
+
+[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
