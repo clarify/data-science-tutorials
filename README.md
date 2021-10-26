@@ -11,6 +11,7 @@
 1. [Introduction](#intro)
 2. [Pattern Recognition](#pattern)
 3. [Google Cloud Hosting](#hosting)
+4. [Forecasting](#forecasting)
 
 <a name="intro"></a>
 
@@ -64,7 +65,7 @@ Topics covered:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
 
 
-## Forecasting
+## <a name="forecasting"></a> Forecasting
 
 In the Forecasting tutorial you will learn how to use data from Clarify for forecasting. We will present the steps to read and prepare the data, use a forecasting method (via the [`merlion`](https://github.com/salesforce/Merlion) library) and write the results back in Clarify.
 
