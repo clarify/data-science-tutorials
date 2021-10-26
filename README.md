@@ -26,7 +26,8 @@ Topics covered:
 - Sending data back to Clarify
 - Publishing Signals and creating Timelines
 
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Introduction.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Introduction.ipynb)
 
 <a name="pattern"></a>
 
@@ -42,7 +43,8 @@ Topics covered:
 - Write signals to Clarify
 - Visualise and share your results in Clarify
 
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Pattern%20Recognition.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Pattern%20Recognition.ipynb)
 
 <a name="hosting"></a>
 
@@ -58,4 +60,19 @@ Topics covered:
 - Google Cloud Hosting
 - See results in Clarify
 
-[Link to Colab Notebook](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
+
+
+## Forecasting
+
+In the Forecasting tutorial you will learn how to use data from Clarify for forecasting. We will present the steps to read and prepare the data, use a forecasting method (via the [`merlion`](https://github.com/salesforce/Merlion) library) and write the results back in Clarify.
+
+Topics covered:
+
+- Readind data and meta-data from Clarify
+- Apply a forecasting method
+- Write the forecast in Clarify
+- Visualize the forecast in Clarify
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/searis/data-science-tutorials/blob/main/tutorials/forecasting.ipynb)
