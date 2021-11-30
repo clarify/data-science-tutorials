@@ -12,6 +12,7 @@
 2. [Forecasting](#forecasting)
 3. [Pattern Recognition](#pattern)
 4. [Google Cloud Hosting](#hosting)
+5. [Pipelines and Deployment with Orchest and Clarify](#orchest)
 
 
 <a name="intro"></a>
@@ -77,4 +78,21 @@ Topics covered:
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
+
+<a name="orchest"></a>
+
+## Pipelines and Deployment with Orchest and Clarify
+
+In this notebook you will learn how to combine [Clarify](https://www.clarify.io/) for data exploration, visualization and collaboration with [Orchest](https://www.orchest.io/) for data pipelines development and deployment.
+
+Topics covered:
+
+- Quickstart importing the example project and pipeline
+- Pipelines in Orchest
+- Read, write and forecast nodes
+- Configuring recurring tasks
+- Visualizing the results in Clarify
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Orchest.ipynb)
 
