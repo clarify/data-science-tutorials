@@ -1,5 +1,5 @@
 # .ipnyb
 .ipnyb_checkpoints/
 clarify-credentials.json
-
+*.json
 .DS_Store

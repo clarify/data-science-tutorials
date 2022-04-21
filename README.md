@@ -13,7 +13,7 @@
 3. [Pattern Recognition](#pattern)
 4. [Google Cloud Hosting](#hosting)
 5. [Pipelines and Deployment with Orchest and Clarify](#orchest)
-
+6. [Email notifications of anomaly data points with Clarify using Orchest!](#email)
 
 <a name="intro"></a>
 
@@ -28,7 +28,6 @@ Topics covered:
 - Creating Signals and Items
 - Sending data back to Clarify
 - Publishing Signals and creating Timelines
-
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Introduction.ipynb)
 
@@ -59,7 +58,6 @@ Topics covered:
 - Write signals to Clarify
 - Visualise and share your results in Clarify
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Pattern%20Recognition.ipynb)
 
 <a name="hosting"></a>
@@ -75,7 +73,6 @@ Topics covered:
 - Create a docker image
 - Google Cloud Hosting
 - See results in Clarify
-
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Google%20Cloud%20Hosting.ipynb)
 
@@ -93,6 +90,19 @@ Topics covered:
 - Configuring recurring tasks
 - Visualizing the results in Clarify
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Orchest.ipynb)
 
+<a name="email"></a>
+
+## Email notifications of anomaly data points with Clarify using Orchest!
+
+In this notebook you will learn how to do anomaly detection of your data in [Clarify](https://www.clarify.io/) and get email notifications whenever an anomaly occurs, using [Orchest](https://www.orchest.io/) pipelines.
+
+Topics covered:
+
+- Import a Project from github and Inspect the pipepline
+- Do anomaly detection
+- Create a job
+- View results in Clarify and receive email notifications
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clarify/data-science-tutorials/blob/main/tutorials/Email%20notifications.ipynb)
