@@ -94,7 +94,8 @@ Topics covered:
 
 <a name="email"></a>
 
-## Email notifications of anomaly data points with Clarify using Orchest!
+## Anomaly detection with email notifications in Clarify - using Orchest!
+
 
 In this notebook you will learn how to do anomaly detection of your data in [Clarify](https://www.clarify.io/) and get email notifications whenever an anomaly occurs, using [Orchest](https://www.orchest.io/) pipelines.
 
