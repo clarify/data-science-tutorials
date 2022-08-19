@@ -6,14 +6,16 @@
 
 ![doodle](media/light-3.png)
 
+**Note that some tutorials use an outdated version of PyClarify SDK**
+
 ## Table of Contents
 
-1. [Introduction](#intro)
-2. [Forecasting](#forecasting)
-3. [Pattern Recognition](#pattern)
-4. [Google Cloud Hosting](#hosting)
-5. [Pipelines and Deployment with Orchest and Clarify](#orchest)
-6. [Email notifications of anomaly data points with Clarify using Orchest!](#email)
+1. [Introduction](#intro) (PyClarify 0.4.0)
+2. [Forecasting](#forecasting) (PyClarify 0.3.5)
+3. [Pattern Recognition](#pattern) (PyClarify 0.3.5)
+4. [Google Cloud Hosting](#hosting) (PyClarify 0.3.5)
+5. [Pipelines and Deployment with Orchest and Clarify](#orchest) (PyClarify 0.3.5)
+6. [Email notifications of anomaly data points with Clarify using Orchest!](#email) (PyClarify 0.3.5)
 
 <a name="intro"></a>
 
